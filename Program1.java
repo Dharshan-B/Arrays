@@ -1,6 +1,6 @@
 //Sorting a numeric array and a string array
 import java.util.Arrays;
-public class Main{
+public class Program1{
   public static void main(String[] args){
     //Sorting of Numbers
     int[] array = {4,5,23,232,23,34,57,33};
