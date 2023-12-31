@@ -1,3 +1,4 @@
+//Sum of all integers in the array
 public class Program2{
   public static void main(String[] args){
     int array[] = {45,34,3,23,56,76,43};
